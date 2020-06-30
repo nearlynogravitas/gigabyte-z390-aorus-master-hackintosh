@@ -9,8 +9,6 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Front USB-C</string>
 		<key>port</key>
 		<integer>1</integer>
 		<key>selected</key>
@@ -38,9 +36,8 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - DataTraveler 2.0</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (red, second from Ethernet)</string>
 		<key>port</key>
 		<integer>3</integer>
 		<key>selected</key>
@@ -54,9 +51,8 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - DataTraveler 2.0</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (red, next to Ethernet)</string>
 		<key>port</key>
 		<integer>4</integer>
 		<key>selected</key>
@@ -70,9 +66,8 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - DataTraveler 2.0</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (red, next to USB-C)</string>
 		<key>port</key>
 		<integer>5</integer>
 		<key>selected</key>
@@ -87,12 +82,10 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Rear USB-C</string>
 		<key>port</key>
 		<integer>6</integer>
 		<key>selected</key>
-		<true/>
+		<false/>
 		<key>type</key>
 		<integer>3</integer>
 	</dict>
@@ -103,8 +96,6 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (yellow, next to HDMI)</string>
 		<key>port</key>
 		<integer>7</integer>
 		<key>selected</key>
@@ -119,8 +110,6 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (yellow, second from HDMI)</string>
 		<key>port</key>
 		<integer>8</integer>
 		<key>selected</key>
@@ -134,10 +123,8 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
-			<string>    - DURGOD Taurus K320</string>
+			<string>    - USB Receiver</string>
 		</array>
-		<key>name</key>
-		<string>Front USB3</string>
 		<key>port</key>
 		<integer>9</integer>
 		<key>selected</key>
@@ -151,10 +138,8 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
-			<string>    - USB Receiver</string>
+			<string>    - DataTraveler 2.0</string>
 		</array>
-		<key>name</key>
-		<string>Front USB3</string>
 		<key>port</key>
 		<integer>10</integer>
 		<key>selected</key>
@@ -170,14 +155,12 @@
 		<array>
 			<string>    - USB2.0 Hub</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB2 (all)</string>
 		<key>port</key>
 		<integer>11</integer>
 		<key>selected</key>
 		<true/>
 		<key>type</key>
-		<integer>0</integer>
+		<integer>3</integer>
 	</dict>
 	<key>HS12</key>
 	<dict>
@@ -187,14 +170,12 @@
 		<array>
 			<string>    - ITE Device(8595)</string>
 		</array>
-		<key>name</key>
-		<string>Internal USB2</string>
 		<key>port</key>
 		<integer>12</integer>
 		<key>selected</key>
 		<true/>
 		<key>type</key>
-		<integer>255</integer>
+		<integer>3</integer>
 	</dict>
 	<key>HS13</key>
 	<dict>
@@ -203,20 +184,13 @@
 		<key>items</key>
 		<array>
 			<string>    - USB2.0 Hub</string>
-			<string>        - USB2.0 Hub</string>
-			<string>        - BRCM20702 Hub</string>
-			<string>            - Bluetooth USB Host Controller</string>
-			<string>        - USB2.0 Hub</string>
-			<string>            - NZXT USB Device</string>
 		</array>
-		<key>name</key>
-		<string>Internal USB2</string>
 		<key>port</key>
 		<integer>13</integer>
 		<key>selected</key>
 		<true/>
 		<key>type</key>
-		<integer>255</integer>
+		<integer>3</integer>
 	</dict>
 	<key>HS14</key>
 	<dict>
@@ -224,15 +198,14 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - bluetooth_device</string>
 		</array>
-		<key>name</key>
-		<string>Bluetooth/WIFI</string>
 		<key>port</key>
 		<integer>14</integer>
 		<key>selected</key>
 		<false/>
 		<key>type</key>
-		<integer>255</integer>
+		<integer>3</integer>
 	</dict>
 	<key>SS01</key>
 	<dict>
@@ -241,10 +214,8 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Front USB-C</string>
 		<key>port</key>
-		<integer>15</integer>
+		<integer>7</integer>
 		<key>selected</key>
 		<false/>
 		<key>type</key>
@@ -258,7 +229,7 @@
 		<array>
 		</array>
 		<key>port</key>
-		<integer>5</integer>
+		<integer>8</integer>
 		<key>selected</key>
 		<false/>
 		<key>type</key>
@@ -270,11 +241,10 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - Ultra Fit</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (red, second from Ethernet)</string>
 		<key>port</key>
-		<integer>6</integer>
+		<integer>9</integer>
 		<key>selected</key>
 		<true/>
 		<key>type</key>
@@ -286,11 +256,10 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - Ultra Fit</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (red, next to Ethernet)</string>
 		<key>port</key>
-		<integer>7</integer>
+		<integer>10</integer>
 		<key>selected</key>
 		<true/>
 		<key>type</key>
@@ -302,11 +271,10 @@
 		<string>XHC</string>
 		<key>items</key>
 		<array>
+			<string>    - Ultra Fit</string>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (red, next to USB-C)</string>
 		<key>port</key>
-		<integer>8</integer>
+		<integer>11</integer>
 		<key>selected</key>
 		<true/>
 		<key>type</key>
@@ -319,12 +287,10 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Rear USB-C</string>
 		<key>port</key>
-		<integer>9</integer>
+		<integer>12</integer>
 		<key>selected</key>
-		<true/>
+		<false/>
 		<key>type</key>
 		<integer>3</integer>
 	</dict>
@@ -335,64 +301,14 @@
 		<key>items</key>
 		<array>
 		</array>
-		<key>name</key>
-		<string>Rear USB3 (yellow, next to HDMI)</string>
 		<key>port</key>
-		<integer>10</integer>
+		<integer>13</integer>
 		<key>selected</key>
 		<false/>
 		<key>type</key>
 		<integer>3</integer>
 	</dict>
 	<key>SS08</key>
-	<dict>
-		<key>controller</key>
-		<string>XHC</string>
-		<key>items</key>
-		<array>
-		</array>
-		<key>name</key>
-		<string>Rear USB3 (yellow, second from HDMI)</string>
-		<key>port</key>
-		<integer>11</integer>
-		<key>selected</key>
-		<false/>
-		<key>type</key>
-		<integer>3</integer>
-	</dict>
-	<key>SS09</key>
-	<dict>
-		<key>controller</key>
-		<string>XHC</string>
-		<key>items</key>
-		<array>
-		</array>
-		<key>name</key>
-		<string>Front USB3</string>
-		<key>port</key>
-		<integer>12</integer>
-		<key>selected</key>
-		<true/>
-		<key>type</key>
-		<integer>3</integer>
-	</dict>
-	<key>SS10</key>
-	<dict>
-		<key>controller</key>
-		<string>XHC</string>
-		<key>items</key>
-		<array>
-		</array>
-		<key>name</key>
-		<string>Front USB3</string>
-		<key>port</key>
-		<integer>13</integer>
-		<key>selected</key>
-		<true/>
-		<key>type</key>
-		<integer>3</integer>
-	</dict>
-	<key>USR1</key>
 	<dict>
 		<key>controller</key>
 		<string>XHC</string>
@@ -406,7 +322,22 @@
 		<key>type</key>
 		<integer>3</integer>
 	</dict>
-	<key>USR2</key>
+	<key>SS09</key>
+	<dict>
+		<key>controller</key>
+		<string>XHC</string>
+		<key>items</key>
+		<array>
+			<string>    - Ultra Fit</string>
+		</array>
+		<key>port</key>
+		<integer>15</integer>
+		<key>selected</key>
+		<true/>
+		<key>type</key>
+		<integer>3</integer>
+	</dict>
+	<key>USR1</key>
 	<dict>
 		<key>controller</key>
 		<string>XHC</string>
@@ -415,6 +346,20 @@
 		</array>
 		<key>port</key>
 		<integer>15</integer>
+		<key>selected</key>
+		<false/>
+		<key>type</key>
+		<integer>3</integer>
+	</dict>
+	<key>USR2</key>
+	<dict>
+		<key>controller</key>
+		<string>XHC</string>
+		<key>items</key>
+		<array>
+		</array>
+		<key>port</key>
+		<integer>6</integer>
 		<key>selected</key>
 		<false/>
 		<key>type</key>
